@@ -7,4 +7,8 @@
 
 2.buat repositori baru
 
+![screenshot 2](https://user-images.githubusercontent.com/46736505/52688978-289f5100-2f8b-11e9-9925-d0a931a91fe4.png)
+
+3.
+
 
